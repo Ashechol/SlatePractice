@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FE52EA8C-47A2-EDE8-12C1-1CB1B7344711}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SlatePractice",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
